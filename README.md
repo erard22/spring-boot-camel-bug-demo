@@ -12,4 +12,4 @@ As soon the dependency
         </dependency>
 ```
 
-To the example the mocking of the mocking of camel endpoints doesn't work anymore.
+gets added to the project the mocking of camel endpoints doesn't work anymore.
